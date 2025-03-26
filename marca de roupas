@@ -1,0 +1,5 @@
+let marcas= ["MiuMiu", "Loewe", "Prada", "Versace",  "Balenciaga", "Valentino", "Melissa", "Osklen", "Nike", "Louis Vuitton"];
+
+for(indice=0;indice<=9; indice++){
+  console.log(marcas[indice]);
+}
